@@ -6,11 +6,11 @@
 - csv形式で保存しているため次回読み込み時は差分のみをダウンロード
 
 # 注意
-- k-db
-- データを利用したことで生じた損害等についていかなる責任も負いません。　
+- k-dbに負荷をかけないようにご留意ください。
+- スクリプトwp利用したことで生じた損害等についていかなる責任も負いません。　
 
 # 関連リンク
-- kdb
-  -　http://k-db.com
+- k-db
+--　http://k-db.com
 - python版
-  - https://github.com/sawadyrr5/pykdb
+-- https://github.com/sawadyrr5/pykdb

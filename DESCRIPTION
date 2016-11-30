@@ -1,0 +1,9 @@
+Package: kdbjp
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author:nishiokya
+Maintainer: nishiokya@gmail.com
+Description: More about what it does (maybe more than one line)
+License:  The MIT License (MIT)
+LazyData: TRUE
